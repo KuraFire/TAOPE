@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Color variables */
+
+$color-cp-pink: #EA1DDF;
+$color-cp-blue: #031B82;
+$color-cp-purple: #693796;
+$color-cp-lightpink: #FAD1ED;
+$color-cp-whitepink: #FEEEFC;
+$color-cp-black: #050440;
+
+$color-lf-pink: #FA1982;
+$color-lf-white: #FAFAFA;
+$color-lf-black: #202835;
+
+
+/* Cayman Theme Overrides */
+
+.page-header {
+    background-color: $color-cp-pink;
+    background-image: linear-gradient(120deg, $color-cp-pink, $color-cp-blue);
+}
