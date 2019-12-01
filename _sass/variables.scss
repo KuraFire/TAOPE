@@ -1,0 +1,39 @@
+/* Color variables */
+
+$color-cp-pink: #EA1DDF;
+$color-cp-blue: #031B82;
+$color-cp-purple: #693796;
+$color-cp-lightpink: #FAD1ED;
+$color-cp-whitepink: #FEEEFC;
+$color-cp-black: #050440;
+$color-cp-link: #3D69FA;
+$color-cp-lightgray: #9FA6C1;
+
+$color-lf-pink: #FA1982;
+$color-lf-white: #FAFAFA;
+$color-lf-black: #202835;
+$color-lf-gray: #536284;
+
+// Breakpoints
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
+
+// Headers
+$header-heading-color: $color-lf-white !default;
+$header-bg-color: $color-cp-blue !default;
+$header-bg-color-secondary: $color-cp-pink !default;
+
+// Text
+$section-headings-color: $color-cp-purple !default;
+$body-text-color: $color-lf-gray !default;
+$body-link-color: $color-cp-link !default;
+$blockquote-text-color: $color-cp-lightgray !default;
+
+// Code
+$code-bg-color: #f3f6fa !default;
+$code-text-color: #567482 !default;
+
+// Borders
+$border-color: $color-cp-lightpink !default;
+$table-border-color: $color-cp-whitepink !default;
+$hr-border-color: $color-cp-lightgray !default;

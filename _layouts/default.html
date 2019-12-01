@@ -17,7 +17,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#031B82">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="/assets/css/convertkit.css">
     <link rel="shortcut icon" href="/favicon-full.png" type="image/png" />
     <link rel="canonical" href="https://artofplayfulescalation.com/" />
@@ -25,13 +25,34 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      {% if page.index %}
+      <h1 class="project-name">{{ site.title }}</h1>
+      {% else %}
+      <h1 class="project-name"><a href="/">{{ site.title }}</a></h1>
+      {% endif %}
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
 
     <main id="content" class="main-content" role="main">
 
+    {% unless page.index == true %}
+      <p><a href="/">← Home</a></p>
+    {% endunless %}
+
       {{ content }}
+
+    {% if page.index %}
+      <h1>index: true</h1>
+    {% else %}
+      <hr class="">
+      <h2>About this book</h2>
+      <p><cite>The Art of Playful Escalation</cite> is an upcoming book about love, sex, and relationships in the 21<sup>st</sup> century, written by <a href="https://lovefirstcoaching.com"><b class="lf">Love First</b> coach Faruk Ateş</a>.</p>
+    {% endif %}
+
+      {% include convertkit.html %}
+
+      <h3>About Consent & Play</h3>
+      <p>Consent & Play promotes consent-based practices and playfulness in all human interactions, and showcases new, more socially sustainable models for masculinity, identity, and relationships in the 21<sup>st</sup> century.</p>
 
       <footer class="site-footer">
         <p class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is a project by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
