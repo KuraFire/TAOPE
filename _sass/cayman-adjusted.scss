@@ -343,18 +343,20 @@ a {
   }
 
   hr {
-    height: 2px;
-    padding: 0;
-    margin: 1rem 0;
     background-color: $hr-border-color;
+    background: linear-gradient(to right, rgba($color-cp-blue, 0), $color-cp-pink, $color-cp-purple, rgba($color-cp-link, 0));
     border: 0;
+    height: 1px;
+    margin: 2.5rem auto 2rem;
+    padding: 0;
+    width: 42%;
   }
 }
 
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px $hr-border-color;
+  border-top: solid 1px $color-cp-lightgray;
 
   @include large {
     font-size: 1rem;

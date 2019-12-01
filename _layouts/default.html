@@ -41,13 +41,13 @@
 
       {{ content }}
 
-    {% if page.index %}
-      <h1>index: true</h1>
-    {% else %}
-      <hr class="">
+
+    {% unless page.index == true %}
+      <hr class="page-ender">
+        <p><a href="/">← Home</a></p>
       <h2>About this book</h2>
       <p><cite>The Art of Playful Escalation</cite> is an upcoming book about love, sex, and relationships in the 21<sup>st</sup> century, written by <a href="https://lovefirstcoaching.com"><b class="lf">Love First</b> coach Faruk Ateş</a>.</p>
-    {% endif %}
+    {% endunless %}
 
       {% include convertkit.html %}
 
