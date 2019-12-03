@@ -22,19 +22,6 @@
     <link rel="shortcut icon" href="/favicon-full.png" type="image/png" />
     <link rel="canonical" href="https://artofplayfulescalation.com/" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
-
-    <meta property="og:title" content="{{ site.title }}" />
-    <meta property="og:site_name" content="{{ site.title }}" />
-    <meta property="og:description" content="{{ site.description }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://artofplayfulescalation.com/" />
-    <meta property="og:image" content="https://artofplayfulescalation.com/assets/img/taope-mock-kindle.png" />
-
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="{{ site.title }}" />
-    <meta name="twitter:description" content="{{ site.description }}" />
-    <meta name="twitter:url" content="https://artofplayfulescalation.com/" />
-    <meta name="twitter:site" content="@KuraFire" />
   </head>
   <body>
     <header class="page-header" role="banner">
@@ -43,7 +30,7 @@
       {% else %}
       <h1 class="project-name"><a href="/">{{ site.title }}</a></h1>
       {% endif %}
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">{{ page.description | default: site.tagline | default: site.github.project_tagline }}</h2>
     </header>
 
     <main id="content" class="main-content" role="main">
