@@ -34,6 +34,7 @@ img.mockup {
   @include large {
     float: left;
     margin-left: -10rem;
+    margin-bottom: 2rem;
     width: 36rem;
   }
 }
