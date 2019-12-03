@@ -1,6 +1,6 @@
 title: The Art of Playful Escalation
 tagline: A book on Love, Sex, And Relationships in the 21st Century
-description: An upcoming book exploring Love, Sex, And Relationships in the 21st Century, written by Faruk Ateş.
+description: An upcoming book exploring Love, Sex, And Relationships in the 21st Century. Written by Faruk Ateş.
 
 url:   https://artofplayfulescalation.com/
 logo:  /assets/img/consent-play-logo-512-on-white.jpg
@@ -14,6 +14,7 @@ defaults:
       path: ""
     values:
       image: https://artofplayfulescalation.com/assets/img/taope-mock-kindle.png
+      alt: The Art of Playful Escalation book mockups
 
 twitter:
   username: KuraFire
