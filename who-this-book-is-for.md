@@ -1,10 +1,13 @@
+---
+type: article
+---
 ## Who This Book Is For
 
 This book is written for you. Perhaps you are a bold and passionate man wanting to interact with women in a comfortable and playful way without _#MeToo_ era worries. Or, a young Gen Z or Millennial woman looking to take charge of her sexuality. Maybe you're a boomer couple navigating a complex transition together, or a genderfluid person seeking to better understand their own identity and empower their life. You could be the happy couple who, after years of blissful marriage, wants to dabble with opening up, try group sex or even polyamory, but you don’t want to diminish the special beauty and love of your existing relationship.
 
 This book is written for all those who seek models and examples for the many kinds of relationships people are having today, to find a relationship style that is right for them. It’s written for all those who don’t want to repeat harmful patterns from the past, and move their love life forward with healthier tools for communication and intimacy.
 
-In a quirky _time travel_ sense, this book is written for me. To be more clear, for my teenage self: the awkward, shy, and nerdy boy who had great friendships with the girls in his school, but who was far too insecure to flirt with any of them successfully. How did that youthful hopeless romantic go from a fly on the wall to the life of the party? From the kid writing a girl he liked “I’m sorry” a hundred times to apologize _for being awkward_, to the confident adult navigating multiple consensual relationships with such clarity, ease, and grace that he hasn’t had a fight or conflict in years? From having no sex life at all to making every sexual fantasy come true for himself?
+In a quirky _time travel_ sense, this book is written for me. To be more clear, for my teenage self: the awkward, shy, and nerdy boy who had great friendships with the girls in his school, but who was far too insecure to flirt with any of them successfully. How did that youthful hopeless romantic go from a fly on the wall to the life of the party? From the kid writing a girl he liked “I’m sorry” a hundred times to apologize _for being awkward_[^awkward], to the confident adult navigating multiple consensual relationships with such clarity, ease, and grace that he hasn’t had a fight or conflict in years? From having no sex life at all to making every sexual fantasy come true for himself?
 
 It wasn’t just age and maturity that got me this dream life. Time is my ally and my teacher, yes, but its lessons don’t require two decades to learn—and they have more universal value. What I’m sharing in this book isn’t just what would’ve been great for _me_ to learn at a young age; they are lessons, practices, and principles that I deeply wish _everyone_ would have access to, for the benefit of themselves and the people in their lives.
 
@@ -31,3 +34,5 @@ Re-read that last paragraph in isolation; strip it of the context of my life and
 If all that sounds like something you want, **this book is for you**.
 
 Ready to see what’s behind door number one?
+
+[^awkward]: Self-awareness was not my strongest skill at 16.

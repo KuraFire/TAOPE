@@ -24,7 +24,50 @@ h1 a {
     text-decoration: underline;
   }
 }
-
+img.mockup {
+  width: 32rem;
+  @include medium {
+    float: left;
+    margin-left: -6rem;
+    width: 24rem;
+  }
+  @include large {
+    float: left;
+    margin-left: -10rem;
+    width: 36rem;
+  }
+}
+/* Footnotes */
+.footnotes {
+  border-top: 1px solid transparent;
+  border-image:
+    linear-gradient(
+      to right,
+      $color-cp-blue 0,
+      $color-cp-pink 20%,
+      $color-cp-lightgray 40%,
+      rgba($color-cp-lightgray, 0) 60%
+    ) 1;
+  margin: 3rem 0 1rem;
+  padding: .5rem 0;
+  font-size: 0.875rem;
+  ol {
+    padding: 0 0 0 1rem;
+  }
+  li:target {
+    background: lighten($color-cp-pink, 42%);
+  }
+}
+sup {
+  display: inline-block;
+  padding: 0 3px;
+}
+article {
+  h1, h2, h3 {
+    margin-top: 0;
+    padding-top: 1rem;
+  }
+}
 
 /* TOC */
 .toc {

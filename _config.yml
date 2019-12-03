@@ -10,3 +10,7 @@ github:
   repository_name: Consent & Play
   owner_url: https://goinglovefirst.com/
   owner_name: Love First™
+
+kramdown:
+  # input: GFM
+  auto_ids: true

@@ -1,7 +1,7 @@
 ---
 index: true
 ---
-![Book and e-book preview image](/assets/img/taope-mock-kindle.png)
+![Book and e-book preview image](/assets/img/taope-mock-kindle.png){:.mockup}
 
 <cite>The Art of Playful Escalation</cite> is a book for:
 
