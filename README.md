@@ -1,6 +1,6 @@
 # The Art of Playful Escalation
 
-![Book and e-book preview image](/assets/img/taope-mock-kindle.png){: style="float:left; width:40%" }
+![Book and e-book preview image](/assets/img/taope-mock-kindle.png)
 
 <cite>The Art of Playful Escalation</cite> is an upcoming book for:
 
