@@ -10,7 +10,7 @@
 
 This is the book I wish I could've read as my 16-year old self, for it would’ve saved me and many people I love from a lot of pain.
 
-Take a sneak peek at the [Table of Contents](/table-of-contents), and read [Who this book is for](/who-this-book-is-for).
+Take a sneak peek at the [Table of Contents](https://artofplayfulescalation.com/table-of-contents), and read [Who this book is for](https://artofplayfulescalation.com/who-this-book-is-for).
 
 
 ## What This Book Is About, And Why You Should Read It
