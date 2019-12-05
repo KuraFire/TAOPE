@@ -9,7 +9,7 @@ index: true
 * Curious people seeking to have a deeper understanding of what their romantic and sexual relationship lives can be like;
 * Long-lasting couples wanting to navigate a relationship transition, whether it’s opening up to non-monogamy or decoupling in a healthy manner;
 
-This is the book I wish I could've read as my 16-year old self, for it would’ve saved me and many people I love from a lot of pain.
+This is the book I wish I could've read as my 16-year old, for it would’ve saved myself and many people I love a lot of pain.
 
 Take a sneak peek at the [Table of Contents](/table-of-contents), and read [Who this book is for](/who-this-book-is-for).
 
@@ -18,7 +18,7 @@ Take a sneak peek at the [Table of Contents](/table-of-contents), and read [Who 
 
 This book is borne out of little games I created to welcome people and bring them into the right mindset as they entered 150-plus person orgies.
 
-If that sentence feels like it suddenly slapped you in the face, it’s because I didn’t ease you into it; I didn't escalate playfully. If I had said _“flirty little games”_, you would’ve known immediately this is a sexual or romantic topic, and if instead of _“right mindset”_ I would’ve said _“a playful, sexy, and consent-driven mindset”_, you would’ve anticipated something even raunchier might follow.
+If that sentence feels like it suddenly slapped you in the face, it’s because I didn’t ease you into it; as a sentence it didn't escalate playfully. If I had said _“flirty little games”_, you would’ve known immediately this is a sexual or romantic topic, and if instead of _“right mindset”_ I had written _“a playful, sexy, and consent-driven mindset”_, you would’ve anticipated something even raunchier might follow.
 
 **This is <cite>The Art of Playful Escalation</cite>: knowing when and how to elevate tension in a way that is enjoyable to all parties involved.**
 

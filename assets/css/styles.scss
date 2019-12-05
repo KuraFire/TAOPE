@@ -26,6 +26,7 @@ h1 a {
 }
 img.mockup {
   width: 32rem;
+
   @include medium {
     float: left;
     margin-left: -6rem;
@@ -33,9 +34,9 @@ img.mockup {
   }
   @include large {
     float: left;
-    margin-left: -10rem;
+    margin-left: -20rem;
     margin-bottom: 2rem;
-    width: 36rem;
+    width: 42rem;
   }
 }
 /* Footnotes */
